@@ -1,0 +1,19 @@
+style
+    h2{
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 20%;
+        margin-top: 50px;
+        font-family: Helvetica, sans-serif;
+        }
+    body{
+    text-align: center;
+        }       
+    a{
+      background-color: aqua;
+      font-family: Helvetica, sans-serif;
+      font-weight: bold;
+            
+        }
+

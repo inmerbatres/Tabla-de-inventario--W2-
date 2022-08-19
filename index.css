@@ -1,0 +1,47 @@
+style
+        body{
+            font-family: Helvetica, sans-serif;
+            text-align: center;
+        }
+        #titulo{
+           text-align: center;
+        }
+        form{
+            text-align: center;
+            width: 1000px;
+           
+        }
+        #edit{
+            width: 50px;
+            border-radius: 25%;
+            background-color: rgb(41, 41, 137);
+            text-align: center;
+            
+            }
+        #remove{
+            width: 60px;
+            border-radius: 25%;      
+            background-color: rgb(126, 14, 14);
+            text-align: center;
+            }
+        #alpha{
+            width: 100px;
+            height: 8%;
+            text-align: center;
+        }
+        tr{
+            background-color: rgba(8, 114, 79, 0.515);
+        }
+        th{
+            height: 60px;
+          }
+        #new{
+            background-color: green;
+            color: black;
+            height: 20px;
+        }
+        .center {
+            margin-left: auto; 
+            margin-right: auto;
+            }
+    
